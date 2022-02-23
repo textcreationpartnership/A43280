@@ -1,0 +1,1637 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>One hundred fifty three chymical aphorisms briefly containing whatsoever belongs to the chymical science / done by the labour and study of Eremita Suburbanus, printed in Latin at Amsterdam, Octob. 1687 ; to which are added some other phylosophic canons or rules pertaining to the hermetick science ; made English and published ... by Chr. Packe ...</title>
+            <title>CLIII aphorismei chemici. English</title>
+            <author>Helmont, Franciscus Mercurius van, 1614-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43280</idno>
+            <idno type="STC">Wing H1392</idno>
+            <idno type="STC">ESTC R9172</idno>
+            <idno type="EEBO-CITATION">12090682</idno>
+            <idno type="OCLC">ocm 12090682</idno>
+            <idno type="VID">53868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53868)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 72:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>One hundred fifty three chymical aphorisms briefly containing whatsoever belongs to the chymical science / done by the labour and study of Eremita Suburbanus, printed in Latin at Amsterdam, Octob. 1687 ; to which are added some other phylosophic canons or rules pertaining to the hermetick science ; made English and published ... by Chr. Packe ...</title>
+                  <title>CLIII aphorismei chemici. English</title>
+                  <author>Helmont, Franciscus Mercurius van, 1614-1699.</author>
+                  <author>Packe, Christopher, fl. 1670-1711.</author>
+                  <author>Helmont, Jean Baptiste van, 1577-1644.</author>
+               </titleStmt>
+               <extent>[8], 63 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author and are to be sold by W. Cooper ... and D. Newman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: CLIII aphorismei chemici.</note>
+                  <note>Attributed to Franciscus Mercurius van Helmont.  Cf. NUC pre-1956.</note>
+                  <note>Also attributed to: J.B. van Helmont, Limojon de St. Didier, P.M. de Respour, Raphael Egli and Maugin De Richebourg.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chemistry --  Early works to 1800.</term>
+               <term>Alchemy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:53868:1"/>
+            <p>
+               <hi>Imprimat.</hi>
+            </p>
+            <p>Aphoriſm, Chymic.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Th. Witherly,</hi> Praeſes Coll. Med. Lond.</item>
+                     <item>
+                        <list>
+                           <head> Cenſores.</head>
+                           <item>
+                              <hi>Pe. Barwick,</hi>
+                           </item>
+                           <item>
+                              <hi>Jo. Elliot,</hi>
+                           </item>
+                           <item>
+                              <hi>Rob. Pitt,</hi>
+                           </item>
+                           <item>
+                              <hi>Joh. Bateman,</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:53868:1"/>
+            <p>One Hundred Fifty Three CHYMICAL APHORISMS. Briefly containing Whatſoever belongs to the
+<hi>Chymical Science.</hi> Done by the Labour and Study of <hi>Eremita Suburbanus.</hi> Printed in
+<hi>Latin</hi> at <hi>Amsterdam, Octob.</hi> 1687.</p>
+            <p>To which are added, Some other Phyloſophick Canons or Rules pertaining to the <hi>Hermetick
+Science.</hi> Made <hi>Engliſh</hi> and publiſhed for the ſake of the Sedulous Labourers in
+true Chymiſtry; By <hi>Chr. Packe, Philo-Chymico-Medicus.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for the Author, and are to be Sold by <hi>W. Cooper</hi> at the
+<hi>Pelican</hi> in <hi>Little Britain;</hi> and <hi>D. Newman</hi> at the <hi>Kings-Arms</hi> in
+the <hi>Poultry,</hi> 1688.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:53868:2"/>
+            <pb facs="tcp:53868:2"/>
+            <head>To all the Lovers OF THE CHYMICAL ART.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>ABout a Month ſince, I received among ſome other things, thoſe <hi>153 Chymical
+Aphoriſms,</hi> from <hi>Am<g ref="char:EOLhyphen"/>ſterdam,</hi> where they had been newly prin<g ref="char:EOLhyphen"/>ted in <hi>Latin,</hi>
+for which end they had been lately tranſmitted from <hi>Vienna,</hi> as appears by the Author's
+Epiſtle to his Friend. When I had peruſed and well-weighed them, with that little Judgment I
+could, I thought that I could do no<g ref="char:EOLhyphen"/>thing more grateful to the Sons of Art, than to Publiſh them
+in <hi>Engliſh,</hi> which I have done with all the care and exact<g ref="char:EOLhyphen"/>neſs I could.</p>
+            <p>The other <hi>157 Phyloſophick Canons</hi> I have taken from <hi>Bernardus G. Peno<g ref="char:EOLhyphen"/>tus
+<pb facs="tcp:53868:3"/>a portu Aquitano;</hi> where they are inſerted with <hi>115</hi> famous Cures of
+<hi>Pa<g ref="char:EOLhyphen"/>racelſus,</hi> together with <hi>Pontanus</hi> his Epiſtle, and ſome other
+Phyloſophick things, and printed in the Year <hi>1582.</hi> Which together make up a Compenatum
+of the Chymical Art, and may ſerve the Studious for a <hi>vade mecum,</hi> or ſmall <hi>pocket
+Companion,</hi> with which he may converſe in his retirements. That it may be both pleaſant and
+profitable to the Diſciples of <hi>Hermes,</hi> is the only de<g ref="char:EOLhyphen"/>ſire of,</p>
+            <closer>
+               <salute>Gentlemen, </salute> 
+               <signed>
+                  <hi>Your ready Servant,</hi> Chr.
+Packe.</signed>
+               <dateline>
+                  <hi>From my Houſe, at the Sign of the</hi> Globe <hi>and</hi> Chymical Furnaces <hi>in
+the</hi> Poſtern-ſtreet, <hi>near</hi> Moorgate.
+<date>Decemb. <hi>the 8th. 1687.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:53868:3"/>
+            <head>The AUTHOR TO HIS FRIEND.</head>
+            <p>YO<g ref="char:V">Ʋ</g> ſee here, my highly-eſteemed Friend, part of a certain Excellent Writing, digeſted
+into brief <hi>Aphoriſms,</hi> as a Compendium of all thoſe things which Phyloſophers are
+wont to obſerve, about the great Work of their Stone: Not that all things are here expounded
+which belong to the Compleat Deſcription of the Phyſical Tincture; for there are more things
+yet behind, with which the Author intends to adorn it; inaſmuch as he hath determined to fortifie
+theſe <hi>Aphoriſms</hi> which he hath here emitted, from the Au<g ref="char:EOLhyphen"/>thority of the Principal
+Phyloſophers: in which Work he will accurately explain the Similitudes, Figures, and other
+ob<g ref="char:EOLhyphen"/>ſcure and confuſed manners of ſpeaking, which every where occur in the Writings of
+Phyloſophers. That ſo at length thoſe things which hitherto have been de<g ref="char:EOLhyphen"/>livered
+<pb facs="tcp:53868:4"/>too intricately, and confuſedly by moſt Writers, may appear in ſome Me<g ref="char:EOLhyphen"/>thodical
+Order. Nevertheleſs, the principal ſcope of this Author, is not ſo much to expoſe or ſet
+forth his own In<g ref="char:EOLhyphen"/>ventions, as to reduce the valuable Say<g ref="char:EOLhyphen"/>ings of others into order; which he
+wil<g ref="char:EOLhyphen"/>lingly ſubmitteth to the Judgment and Examination of thoſe, who have made a greater
+Progreſs in the Art than him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>But although I know this to be the pur<g ref="char:EOLhyphen"/>poſe of the Learned Author, nevertheleſs I chuſe
+rather to tranſmit this little work to you, imperfect as it is, that you may weigh it, and
+cauſe it to be printed, then that the Sons of Art ſhould any longer want this ſmall help;
+that it may give a light to thoſe who err and go aſtray in the midſt of darkneſs.</p>
+            <p>And that the Author may judge from the event of this his labour, whether it will be worth his
+Pains to emit the whole Work to the World. Farewel my good Friend, and let me continue to have a
+place in your Favour.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated at</hi> Vienna,
+<date>
+                     <hi>the 2d. of</hi> Septemb. <hi>1687.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:53868:4"/>
+            <head>CLIII <hi>Chymical Aphoriſms;</hi> To which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay be Commodiouſly referred whatſoever
+belongs to the <hi>Chymical Science.</hi>
+            </head>
+            <p>
+               <hi>Aphoriſm</hi> I.</p>
+            <p>
+               <hi>ALchymy</hi> is the perfect know<g ref="char:EOLhyphen"/>ledge of whole Nature and Art, about the King<g ref="char:EOLhyphen"/>dom of
+Metals.</p>
+            <p>
+               <hi>Aph.</hi> 2. Which by reaſon of its <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cellency, is called by many other <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ames.</p>
+            <p>
+               <hi>Aph.</hi> 3. And was firſt invented by <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>Alchemus,</hi> as ſome think.</p>
+            <pb n="2" facs="tcp:53868:5"/>
+            <p>
+               <hi>Aph.</hi> 4. And in all times hath bee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo highly eſteemed by Philoſophers, by
+reaſon of its great Utility.</p>
+            <p>
+               <hi>Aph.</hi> 5. That the <hi>Adepti</hi> being mo<g ref="char:EOLunhyphen"/>ved with Pity, would not altogether conceal
+it.</p>
+            <p>
+               <hi>Aph.</hi> 6. Nevertheleſs, they hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> delivered it but confuſedly, enigma<g ref="char:EOLhyphen"/>tically, and
+under Allegories.</p>
+            <p>
+               <hi>Aph.</hi> 7. Leſt it ſhould fall into the hands of the unworthy.</p>
+            <p>
+               <hi>Aph.</hi> 8. But that it ſhould be known to its own Sons only.</p>
+            <p>
+               <hi>Aph.</hi> 9. With which Sophiſters ſhould have no Commerce.</p>
+            <p>
+               <hi>Aph.</hi> 10. Wherefore this Scienc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the Gift of God, which he beſtow<g ref="char:EOLhyphen"/>eth on whom he
+pleaſeth.</p>
+            <p>
+               <hi>Aph.</hi> 11. Either by the Revelatio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of a faithful Friend; or by illumina<g ref="char:EOLunhyphen"/>ting the
+Underſtanding of the Enqui<g ref="char:EOLunhyphen"/>rer.</p>
+            <p>
+               <hi>Aph.</hi> 12. Who ſeeketh it by Pray<g ref="char:EOLunhyphen"/>er, diligent Reading, profound Med<g ref="char:EOLunhyphen"/>tation, and
+aſſiduous Labour.</p>
+            <p>
+               <hi>Aph.</hi> 13. Therefore it behovet
+<pb n="3" facs="tcp:53868:5"/>the Studious of this Art, to be of a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure heart, intire manners, ſtedfaſt to
+his purpoſe, and a Religious keeper of Secrets.</p>
+            <p>
+               <hi>Aph.</hi> 14. And moreover, that he be indowed with a good Wit, health of Body, and a
+plentiful Fortune.</p>
+            <p>
+               <hi>Aph.</hi> 15. Becauſe this Art requi<g ref="char:EOLhyphen"/>reth the whole Man, being found out,
+poſſeſſeth him, and being once poſſeſſed, freeth him from every long and ſerious
+buſineſs, cauſing him to diſregard all other things, and to repute them as forreign and
+ſtrange.</p>
+            <p>
+               <hi>Aph.</hi> 16. The parts of <hi>Alchym<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> are two, <hi>viz.</hi> The Theory, and the
+Practice.</p>
+            <p>
+               <hi>Aph.</hi> 17. For, ſeeing that Art can do nothing about Metals, except it imitate
+Nature;</p>
+            <p>
+               <hi>Aph.</hi> 18. It is neceſſary that the Knowledge of Nature ſhould precede the
+Knowledge of Art.</p>
+            <p>
+               <hi>Aph.</hi> 19. <hi>Alchymy</hi> therefore, in re<g ref="char:EOLhyphen"/>ſpect of the Theory, is a Science <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+hereby the Beginnings, Cauſes, Pro<g ref="char:EOLhyphen"/>perties
+<pb n="4" facs="tcp:53868:6"/>and Paſſions of all the Metals, are radically known; that thoſe which are
+imperfect, incompleat, mixt and corrupt, may be tranſmuted into true Gold.</p>
+            <p>
+               <hi>Aph.</hi> 20. Seeing that the final cauſe in Phyſick co-incideth with the <hi>form,</hi>
+the Principles and Cauſes of Metals are their <hi>matter, form,</hi> and <hi>efficient
+cauſe.</hi>
+            </p>
+            <p>
+               <hi>Aph.</hi> 21. The <hi>Matter</hi> of Metals is either remote or proximate.</p>
+            <p>
+               <hi>Aph.</hi> 22. The <hi>Remote</hi> is the Rayes of the Sun and Moon, by whoſe Con<g ref="char:EOLhyphen"/>courſe
+all Natural Compounds are produced.</p>
+            <p>
+               <hi>Aph.</hi> 23. The <hi>Proximate</hi> is Sulphur and Argent vive, or the Rayes of the Sun and
+Moon determined to a Me<g ref="char:EOLhyphen"/>tallick Production, under the form of a certain humid, unctions, and
+viſ<g ref="char:EOLhyphen"/>cous Subſtance.</p>
+            <p>
+               <hi>Aph.</hi> 24. In the Union of this Sul<g ref="char:EOLhyphen"/>phur, and Argent-Vive, conſiſteth the form of
+Metals.</p>
+            <p>
+               <hi>Aph.</hi> 25. The which, ſeeing that it is
+<pb n="5" facs="tcp:53868:6"/>various, according to the various manner of the mixture, and the de<g ref="char:EOLhyphen"/>gree of
+Decoction, hence ariſe various Metals.</p>
+            <p>
+               <hi>Aph.</hi> 26. Nature only effecteth this Union in the bowels of the Earth, by a temperate
+heat.</p>
+            <p>
+               <hi>Aph.</hi> 27. From the Union of this Water immediately flow forth two Properties or
+Paſſions, common to all the Metals, <hi>viz. Fuſibility</hi> and
+<hi>Exten<g ref="char:EOLhyphen"/>ſibility.</hi>
+            </p>
+            <p>
+               <hi>Aph.</hi> 28. The Cauſes of a Metal<g ref="char:EOLhyphen"/>lick <hi>Fuſibi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity</hi> are, Argent-vive, as well
+fixed as volatile; and a volatile Sulphur not fixed.</p>
+            <p>
+               <hi>Aph.</hi> 29. The cauſe of <hi>Extenſibility</hi> is the viſcouſity or toughneſs
+of Ar<g ref="char:EOLhyphen"/>gent-vive, whether fixed or volatile.</p>
+            <p>
+               <hi>Aph.</hi> 30. <hi>Metals</hi> therefore are Mi<g ref="char:EOLhyphen"/>neral Bodies, of a cloſe and compact
+ſubſtance, and of a very ſtrong Com<g ref="char:EOLhyphen"/>poſition; fuſible, and extenſible under the Hammer,
+from every Dimenſion.</p>
+            <p>
+               <hi>Aph.</hi> 31. Which are commonly reckoned ſix, <hi>viz. Gold, Silver, Tin, Lead,
+Copper,</hi> and <hi>Iron.</hi>
+            </p>
+            <pb n="6" facs="tcp:53868:7"/>
+            <p>
+               <hi>Aph.</hi> 32. Of theſe, two are per<g ref="char:EOLhyphen"/>fect; <hi>viz.</hi> Gold and Silver.</p>
+            <p>
+               <hi>Aph.</hi> 33. The other four are im<g ref="char:EOLhyphen"/>perfect.</p>
+            <p>
+               <hi>Aph.</hi> 34. Of which, two are ſoft; <hi>viz.</hi> Tin and Lead;</p>
+            <p>
+               <hi>Aph.</hi> 35. And two hard; <hi>viz.</hi> Cop<g ref="char:EOLhyphen"/>per and Iron.</p>
+            <p>
+               <hi>Aph.</hi> 36. The <hi>Perfection</hi> of Me<g ref="char:EOLhyphen"/>tals conſiſteth in the abundance of
+Argent-vive, and the Uniformity of the Subſtance, or perfect union of the principles, which is
+performed by a long and temperate Decoction.</p>
+            <p>
+               <hi>Aph.</hi> 37. Hence ſlow various Pro<g ref="char:EOLhyphen"/>perties or Paſſions, by which the per<g ref="char:EOLhyphen"/>fect Metals
+are diſtinguiſhed from the imperfect.</p>
+            <p>
+               <hi>Aph.</hi> 38. Of which, the firſt is, That the perfect Metals eaſily receive
+Argent-vive, but refuſe Sulphur.</p>
+            <p>
+               <hi>Aph.</hi> 39. The ſecond is, that they are not burnt, nor inflamed, but ſuffer the
+Examen of the Cupel, and of the Cement; or, at leaſt, of the former.</p>
+            <pb n="7" facs="tcp:53868:7"/>
+            <p>
+               <hi>Aph.</hi> 40. The third is, that the parts of which they conſiſt, to wit, the moiſt
+and dry, cannot be diſ<g ref="char:EOLhyphen"/>ſipated, ſevered, or broken by the Fire, which diſſolveth all
+things.</p>
+            <p>
+               <hi>Aph.</hi> 41. The fourth is, that they ſuffer the greateſt Extenſion of all the
+Metals.</p>
+            <p>
+               <hi>Aph.</hi> 42. The fifth is, that they are the heavieſt of all the Metals, Lead only
+excepted, in reſpect of Silver.</p>
+            <p>
+               <hi>Aph.</hi> 43. The ſixth is, that being heat fiery hot, they ſend forth a Sky-colour or
+Coeleſtial Splendor; nei<g ref="char:EOLhyphen"/>ther are they melted before they have been ſome time fiery hot.</p>
+            <p>
+               <hi>Aph.</hi> 44. The ſeventh is, that they never contract Ruſt.</p>
+            <p>
+               <hi>Aph.</hi> 45. The <hi>Imperfection</hi> of Me<g ref="char:EOLhyphen"/>tals conſiſteth in the abundance of
+Sulphur, and the nonconformity of the Subſtance; or in the imperfect mixture of the Principles,
+by too ſhort, or a ſudden and intemperate Decoc<g ref="char:EOLhyphen"/>tion.</p>
+            <pb n="8" facs="tcp:53868:8" rendition="simple:additions"/>
+            <p>
+               <hi>Aph.</hi> 46. By ſo many Properties or Paſſions as ſlow from the Water, the form of
+the imperfect Metals is plainly diverſe from the Properties of the perfect Metals.</p>
+            <p>
+               <hi>Aph.</hi> 47. The firſt of which is, that the imperfect Metals eaſily admit Sulphur, but
+not Mercury; except ſo far forth as they differ but little from it, by reaſon of their
+imperfect Co<g ref="char:EOLhyphen"/>agulation; of which ſort are <hi>Tin</hi> and <hi>Lead.</hi>
+            </p>
+            <p>
+               <hi>Aph.</hi> 48. The ſecond is, that they are burnt and inflamed: Nor do they endure the
+tryal of the Cupell and Cement.</p>
+            <p>
+               <hi>Aph.</hi> 49. The third is, that their Eſſential parts (<hi>viz.</hi> the moiſt and
+the dry) are diſſipated and ſeparated by the Fire.</p>
+            <p>
+               <hi>Aph.</hi> 50. The fourth is, that they are leſs extenſible than the perfect Metals.</p>
+            <p>
+               <hi>Aph.</hi> 51. The fifth is, that they are lighter than the perfect Metals, Lead only
+excepted in reſpect of Silver.</p>
+            <pb n="9" facs="tcp:53868:8"/>
+            <p>
+               <hi>Aph.</hi> 52. The ſixth is, that being heat fiery hot, they either contract a blackneſs,
+or a ſhining whiteneſs; and are either melted before they come to be red hot, or afterwards
+ſlower than the perfect Metals.</p>
+            <p>
+               <hi>Aph.</hi> 53. The ſeventh is, that they contract Ruſt.</p>
+            <p>
+               <hi>Aph.</hi> 54. <hi>Gold</hi> is a Metal moſt per<g ref="char:EOLhyphen"/>fectly digeſted, of a yellow colour,
+mute, and ſhining; the heavieſt of all the Metals, ſuſtaining the tryal of the Cupel and
+Cement.</p>
+            <p>
+               <hi>Aph.</hi> 55. <hi>Silver</hi> is a Metal leſs per<g ref="char:EOLhyphen"/>fect than Gold, but more perfect than
+the reſt of the Metals; digeſted, of a pure whiteneſs, clean, ſounding, and abiding the
+Cupel.</p>
+            <p>
+               <hi>Aph.</hi> 56. <hi>Tin</hi> is a ſoft Metal, im<g ref="char:EOLhyphen"/>perfectly digeſted, white, ſhining with
+a certain Blewneſs, ſomewhat ſoun<g ref="char:EOLhyphen"/>ding, and is the lighteſt of all the Metals.</p>
+            <p>
+               <hi>Aph.</hi> 57. <hi>Lead</hi> is a ſoft Metal, im<g ref="char:EOLhyphen"/>perfectly digeſted, livid, mute, and
+heavy.</p>
+            <pb n="10" facs="tcp:53868:9"/>
+            <p>
+               <hi>Aph.</hi> 58. <hi>Copper</hi> is a hard Metal im<g ref="char:EOLhyphen"/>perfectly digeſted, of an obſcure
+red<g ref="char:EOLhyphen"/>neſs, livid, and ſounding.</p>
+            <p>
+               <hi>Aph.</hi> 59. Iron is a hard Metal, im<g ref="char:EOLhyphen"/>perfectly digeſted, of an impure whiteneſs,
+livid, and growing black, and ſounding much.</p>
+            <p>
+               <hi>Aph.</hi> 60. All the Metals therefore are of the ſame Original, and ariſe from the
+ſame Principles.</p>
+            <p>
+               <hi>Aph.</hi> 61. Neither do they differ a<g ref="char:EOLhyphen"/>mong themſelves, except in the quan<g ref="char:EOLhyphen"/>tity and
+quality of their Principles, and their mixture, according to the various degree° of their
+Coction.</p>
+            <p>
+               <hi>Aph.</hi> 62. Whence it followeth, that the imperfect Metals have a Diſpoſi<g ref="char:EOLhyphen"/>tion of
+receiving the form of the per<g ref="char:EOLhyphen"/>fect metals.</p>
+            <p>
+               <hi>Aph.</hi> 63. Provided they be freed from their Sulphurous and Hetroge<g ref="char:EOLhyphen"/>neous parts, which
+are the cauſes of their imperfection, by a perfect De<g ref="char:EOLhyphen"/>coction.</p>
+            <p>
+               <hi>Aph.</hi> 64. Either by Nature alone, in the Bowels of the Earth, in proceſs of time.</p>
+            <pb n="11" facs="tcp:53868:9"/>
+            <p>
+               <hi>Aph.</hi> 65. Or by the ſame Nature, in an Inſtant above the Earth, by the help of
+Art.</p>
+            <p>
+               <hi>Aph.</hi> 66. By the projecting of a Me<g ref="char:EOLhyphen"/>dicine, which in a moment penetra<g ref="char:EOLhyphen"/>teth and tingeth,
+the imperfect Me<g ref="char:EOLhyphen"/>tals being melted, and Argent-vive being made hot.</p>
+            <p>
+               <hi>Aph.</hi> 67. Which tranſmutation of the imperfect Metals, into perfect; that it is not
+only poſſible,</p>
+            <p>
+               <hi>Aph.</hi> 68. But alſo true;</p>
+            <p>
+               <hi>Aph.</hi> 69. Is confirmed by the com<g ref="char:EOLhyphen"/>mon opinion of Philoſophers, and by Experience.</p>
+            <p>
+               <hi>Aph.</hi> 70. And therefore the <hi>Stone</hi> or <hi>Medicine of Philoſophers,</hi> by
+which this Tranſmutation is made, ought to have in it ſelf the form of common Gold or
+Silver.</p>
+            <p>
+               <hi>Aph.</hi> 71. For if it ſhould want that, it could not actually introduce it.</p>
+            <p>
+               <hi>Aph.</hi> 72. Every natural Compound is diſtinguiſhed from other natural Compounds, by
+its own particular form, being really and actually diſtinct
+<pb n="12" facs="tcp:53868:10" rendition="simple:additions"/>from all other forms of divers natu<g ref="char:EOLhyphen"/>ral Compounds.</p>
+            <p>
+               <hi>Aph.</hi> 73. Hence, among all Subſtan<g ref="char:EOLhyphen"/>ces which are determined in one of the three
+Families of Nature, to wit, the Vegitable, Animal, and Mineral; there is nothing found but common
+Gold, which actually containeth in it ſelf the form, qualities, accidents, ſignatures and
+properties of common Gold.</p>
+            <p>
+               <hi>Aph.</hi> 74. Wherefore common Gold only will be the only Subject, from which the form of
+Gold ought to be taken, for the Compoſition of the Stone of Phyloſophers.</p>
+            <p>
+               <hi>Aph.</hi> 75. Common Gold is only ſimply perfected by Nature; that is, it hath no greater
+perfection than it ſelf wanteth, as it is Gold.</p>
+            <p>
+               <hi>Aph.</hi> 76. And therefore cannot communicate its perfection to other imperfect Metals.</p>
+            <p>
+               <hi>Aph.</hi> 77. Therefore if we labour in that, that common Gold ſhould in<g ref="char:EOLhyphen"/>troduce the form
+of common Gold
+<pb n="13" facs="tcp:53868:10" rendition="simple:additions"/>into the imperfect Metals, for their perfection, it is altogether
+neceſſary, that the common Gold ſhould be made more than perfect; that is, that it acquire
+more Aureity and Vertue, than is required for the ſingle per<g ref="char:EOLhyphen"/>fection of common Gold.</p>
+            <p>
+               <hi>Aph.</hi> 78. No natural Compound can be made more perfect, unleſs it be again ſubjected
+to the Operations of Nature.</p>
+            <p>
+               <hi>Aph.</hi> 79. And as often as it is ſub<g ref="char:EOLhyphen"/>jected to thoſe, ſo often it acquireth a more
+perfect form in its <hi>Species.</hi>
+            </p>
+            <p>
+               <hi>Aph.</hi> 80. Which, that it may be done, it is neceſſary, to reſolve it into a matter
+like to that, of which Na<g ref="char:EOLhyphen"/>ture hath moſt nearly produced it.</p>
+            <p>
+               <hi>Aph.</hi> 81. For naturally, there is no new Generation made, without a pre<g ref="char:EOLhyphen"/>vious
+Corruption.</p>
+            <p>
+               <hi>Aph.</hi> 82. And ſeeing that common Gold, as we ſaid above, hath its nea<g ref="char:EOLhyphen"/>reſt riſe
+from an unctious and viſcous Humidity,</p>
+            <p>
+               <hi>Aph.</hi> 83. It is manifeſt, that it can<g ref="char:EOLhyphen"/>not
+<pb n="14" facs="tcp:53868:11" rendition="simple:additions"/>not be made more than perfect, ex<g ref="char:EOLhyphen"/>cept it be firſt reſolved into
+ſuch its firſt matter.</p>
+            <p>
+               <hi>Aph.</hi> 84. Every natural Agent aſ<g ref="char:EOLhyphen"/>ſimilateth to it ſelf the Patient, ei<g ref="char:EOLhyphen"/>ther in
+ſubſtance, or in quality.</p>
+            <p>
+               <hi>Aph.</hi> 85. Therefore, to reſolve common Gold into a humid, unctious and viſcous
+ſubſtance, there is requi<g ref="char:EOLhyphen"/>red an humid, unctious, and viſcous Agent.</p>
+            <p>
+               <hi>Aph.</hi> 86. Not any one, but one that is homogeneous, and of the ſame Na<g ref="char:EOLhyphen"/>ture with
+Gold:</p>
+            <p>
+               <hi>Aph.</hi> 87. Such a one as hath emi<g ref="char:EOLhyphen"/>nently the form of Gold, or may ob<g ref="char:EOLhyphen"/>tain it by a new
+Specification and De<g ref="char:EOLhyphen"/>termination, when it particularly in<g ref="char:EOLhyphen"/>ſinuateth it ſelf into common
+Gold.</p>
+            <p>
+               <hi>Aph.</hi> 88. For, ſeeing that it ought naturally and radically to mix it ſelf with the
+Principles of Gold, and to penetrate the Gold through every the leaſt part of it, ſo that after
+the mix<g ref="char:EOLhyphen"/>tion, no ſeparation can ever be made;</p>
+            <p>
+               <hi>Aph.</hi> 89. After which manner,
+<pb n="15" facs="tcp:53868:11" rendition="simple:additions"/>things heterogeneous can never unite themſelves.</p>
+            <p>
+               <hi>Aph.</hi> 90. And moreover, that it be more ſubtile, more active and ſpiri<g ref="char:EOLhyphen"/>tual than
+common Gold; and there<g ref="char:EOLhyphen"/>fore the firſt matter of Gold;</p>
+            <p>
+               <hi>Aph.</hi> 91. Seeing that nothing can be naturally diſſolved, but in that, and by that,
+of which it is compounded.</p>
+            <p>
+               <hi>Aph.</hi> 92. Whence we conclude, that no Vegitable, Animal, or Mineral Subſtances, which
+are not of a Metal<g ref="char:EOLhyphen"/>lick Nature, (ſuch are Stones and Salts) by any Artifice of Depura<g ref="char:EOLhyphen"/>tion, or
+Preparation, or Subtilty whatſoever, can make Common Gold more than Perfect.</p>
+            <p>
+               <hi>Aph.</hi> 93. Neither alſo Metallick Spirits, which are not of the nature of Gold; ſuch
+are Sulphur, and Arſnick, and other leſſer or middle Minerals, which are any way compounded
+of thoſe, although they are more ſubtile, and more active than Gold.</p>
+            <p>
+               <hi>Aph.</hi> 94. For, ſeeing that it is ſpoyled of every Sulphur, therefore
+<pb n="16" facs="tcp:53868:12" rendition="simple:additions"/>it doth not admit the ſaid Spirits.</p>
+            <p>
+               <hi>Aph.</hi> 95. Although the Vertue and Efficacy of Mineral Spirits be ſo great in the
+Kingdom of Metals, that they cannot be altered, but by thoſe only.</p>
+            <p>
+               <hi>Aph.</hi> 96. Therefore that common Gold, by its reſolution, may be made more than
+perfect, to the end, that it may bring the imperfect Metals to per<g ref="char:EOLhyphen"/>fection; it is highly
+neceſſary to have recourſe to a Metallick Spirit which is of the ſame nature with Gold, and
+therefore can unite it ſelf with it.</p>
+            <p>
+               <hi>Aph.</hi> 97. But ſeeing that, from what hath been already ſaid, that common Gold is
+nothing elſe but a pure Argent-Vive, perfectly digeſt<g ref="char:EOLhyphen"/>ed by Nature in the Mines of the
+Earth.</p>
+            <p>
+               <hi>Aph.</hi> 98. It followeth, that it is to be diſſolved and rendred more than perfect, by
+no Spirit, but by Argent-Vive alone, crude and indigeſted.</p>
+            <p>
+               <hi>Aph.</hi> 99. But not the common Ar<g ref="char:EOLhyphen"/>gent-Vine, nor that of Bodies, which is drawn from
+Metals,</p>
+            <pb n="17" facs="tcp:53868:12" rendition="simple:additions"/>
+            <p>
+               <hi>Aph.</hi> 100. Although Gold hath a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat friendſhip with thoſe Argent-vives.</p>
+            <p>
+               <hi>Aph.</hi> 101. [For thoſe, ſeeing that they come very near to the Nature of Gold,</p>
+            <p>
+               <hi>Aph.</hi> 102. They are the only Subject of a Paſſive Tranſmutati<g ref="char:EOLhyphen"/>on.</p>
+            <p>
+               <hi>Aph.</hi> 103. In which Nature hath ceaſed to operate equally as in Gold.</p>
+            <p>
+               <hi>Aph.</hi> 104. Therefore ſeeing they are not the firſt matter of Gold,</p>
+            <p>
+               <hi>Aph.</hi> 105. They cannot act up<g ref="char:EOLhyphen"/>on it.]</p>
+            <p>
+               <hi>Aph.</hi> 106. But by the Argent-vive of Phyloſophers; to wit, that un<g ref="char:EOLhyphen"/>ctious and
+viſcous natural Humidity only, which is the root of all the Metals.</p>
+            <p>
+               <hi>Aph.</hi> 107. Which Metallick ſeed, ſeeing that it is no where obvious to our Senſes
+in Mines;</p>
+            <p>
+               <hi>Aph.</hi> 108. And to create a Seed is not in the power of man, but of God only:</p>
+            <pb n="18" facs="tcp:53868:13" rendition="simple:additions"/>
+            <p>
+               <hi>Aph.</hi> 109. From what hath been ſaid, it is neceſſarily inferred, that there ought
+to be ſome Mineral af<g ref="char:EOLhyphen"/>forded, which may furniſh us with this Mercury of Phyloſophers.</p>
+            <p>
+               <hi>Aph.</hi> 110. Which, ſeeing that according to the Premiſes, it ought to augment the
+Tincture, Fuſibility, and Penetration of Gold;</p>
+            <p>
+               <hi>Aph.</hi> 111. And among Minerals there is none found which can per<g ref="char:EOLhyphen"/>fect the colour of pale
+Gold, and facilitate its Flux, and render it more penetrating, but Antimony only.</p>
+            <p>
+               <hi>Aph.</hi> 112. Therefore that appea<g ref="char:EOLhyphen"/>reth to be the only Mineral, of which, and by which, the
+ſaid Mer<g ref="char:EOLhyphen"/>cury may be obtained.</p>
+            <p>
+               <hi>Aph.</hi> 113. For, ſeeing that Anti<g ref="char:EOLhyphen"/>mony cannot communicate more Tincture to Gold, than
+the natural perfection of Gold requireth,</p>
+            <p>
+               <hi>Aph.</hi> 114. And Gold, as hath been already ſaid, ought to be more perfectly Tinged by
+the Mercury of Phyloſophers.</p>
+            <pb n="19" facs="tcp:53868:13" rendition="simple:additions"/>
+            <p>
+               <hi>Aph.</hi> 115. This Mercury cannot be had of Antimony alone;</p>
+            <p>
+               <hi>Aph.</hi> 116. But by it, as a <hi>Medium,</hi> from other imperfect Metallick Bo<g ref="char:EOLhyphen"/>dies,
+which abound with the Tincture of Gold;</p>
+            <p>
+               <hi>Aph.</hi> 117. Of which ſort there are found only two, to wit, <hi>Mars</hi> and
+<hi>Venus.</hi>
+            </p>
+            <p>
+               <hi>Aph.</hi> 118. Whence we conclude, That of Antimony, and by its help, of <hi>Mars</hi>
+alſo, and <hi>Venus, our Royal Menſtruum</hi> is to be elicited, by the work of Art and
+Nature.</p>
+            <p>
+               <hi>Aph.</hi> 119. Antimony, <hi>Mars</hi> and <hi>Venus,</hi> conſiſt of Sulphur and
+Mer<g ref="char:EOLhyphen"/>cury.</p>
+            <p>
+               <hi>Aph.</hi> 120. <hi>Sulphur,</hi> as we have ſaid, is averſe to the Nature of Gold, by
+reaſon of its unctuoſity, aduſtive and impure terreſtreity.</p>
+            <p>
+               <hi>Aph.</hi> 121. Wherefore the ſaid matter of our <hi>Menſtruum,</hi> before all things,
+is to be purged from its combuſtible Sulphur,</p>
+            <p>
+               <hi>Aph.</hi> 122. That only its Mercu<g ref="char:EOLhyphen"/>ry
+<pb n="20" facs="tcp:53868:14" rendition="simple:additions"/>may ſerve for our intention.</p>
+            <p>
+               <hi>Aph.</hi> 123. This <hi>Mercury,</hi> without further Preparation, being projected upon
+Gold, doth not adhere to it with profit, but like other Mineral Spirits flyeth the force of the
+Fire, and leaveth the Gold unaltered, and unclean, or carrieth it up with it ſelf,</p>
+            <p>
+               <hi>Aph.</hi> 124. By reaſon of its earthy, feculent and fugitive aquoſity, which is yet in
+it.</p>
+            <p>
+               <hi>Aph.</hi> 125. Therefore, that of this Mercury, the <hi>Mercury of Phyloſophers,</hi> may
+be made, which can unite it ſelf with Gold, and render it more that perfect; it is altogether
+neceſſary, that it ſhould be depurated, and freed from its Feces.</p>
+            <p>
+               <hi>Aph.</hi> 126. No natural Compound can be perfectly purged without its diſſolution.</p>
+            <p>
+               <hi>Aph.</hi> 127. And every Diſſolution of a natural Compound, is termina<g ref="char:EOLhyphen"/>ted in the
+moiſture of which it was made.</p>
+            <pb n="21" facs="tcp:53868:14" rendition="simple:additions"/>
+            <p>
+               <hi>Aph.</hi> 128. Therefore, ſeeing that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he matter of our <hi>Menſtruum</hi> is
+Me<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>allick;</p>
+            <p>
+               <hi>Aph.</hi> 129. And therefore, as is manifeſt above, ariſeth from an unc<g ref="char:EOLhyphen"/>tious and
+viſcous humidity.</p>
+            <p>
+               <hi>Aph.</hi> 130. It is required for its per<g ref="char:EOLhyphen"/>fect Purgation, that it be reſolved into ſuch
+an unctious and viſcous hu<g ref="char:EOLhyphen"/>midity.</p>
+            <p>
+               <hi>Aph.</hi> 131. This diſſolution of the matter, requireth its previous Cal<g ref="char:EOLhyphen"/>cination.</p>
+            <p>
+               <hi>Aph.</hi> 132. For ſeeing that natu<g ref="char:EOLhyphen"/>rally no dry thing is diſſolved into a moiſt,
+except Salt, or that which by the force of fire hath contracted the like nature.</p>
+            <p>
+               <hi>Aph.</hi> 133. Our matter is firſt to be calcined, that it may be rendred fit for
+ſolution.</p>
+            <p>
+               <hi>Aph.</hi> 134. The total Diſſolution of no dry Body already diſſolved into a Liquor,
+can be perfected, or a diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ion of its Eſſential parts be made, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thout its
+putrefaction.</p>
+            <pb n="22" facs="tcp:53868:15" rendition="simple:additions"/>
+            <p>
+               <hi>Aph.</hi> 135. Wherefore this ought to be done to the matter of our <hi>Men<g ref="char:EOLhyphen"/>ſtruum,</hi>
+for its compleat Depuration, equally as to Gold, for its <hi>plusquam</hi> perfection; as we have
+ſaid above.</p>
+            <p>
+               <hi>Aph.</hi> 136. But every moiſt bod<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is corrupted and putrified in a ligh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or gentle
+heat.</p>
+            <p>
+               <hi>Aph.</hi> 137. Hence our matter being reſolved into a moiſt, viſcous, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unctious
+Subſtance, is to be farther promoted and disjoyned by digeſtion<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <hi>Aph.</hi> 138. That the ſubtile part<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be elevated from the groſs, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Pure from
+the Impure, by Subl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mation.</p>
+            <p>
+               <hi>Aph.</hi> 139. For the perfecting thoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Operations, Nature affordeth us on<g ref="char:EOLhyphen"/>ly two
+<hi>Mediums, viz. Fire</hi> and <hi>Water.</hi>
+            </p>
+            <p>
+               <hi>Aph.</hi> 140. The Combuſtible an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Volatile parts are ſeparated by Fire</p>
+            <p>
+               <hi>Aph.</hi> 141. But the Earthy and Fe<g ref="char:EOLhyphen"/>culent by Water.</p>
+            <p>
+               <hi>Aph.</hi> 142. In the ſaid Phyloſophic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sublimation of the Mercury, and it<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> union with
+Gold, by various Soluti<g ref="char:EOLhyphen"/>ons
+<pb n="23" facs="tcp:53868:15" rendition="simple:additions"/>and Coagulations, the <hi>Practice of Alchymy</hi> conſiſteth;</p>
+            <p>
+               <hi>Aph.</hi> 143. That thence may reſult <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Catho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick Medicine,</hi> moſt potent in
+perfecting the imperfect Metals, and in reſtoring of all diſeaſy bodies what<g ref="char:EOLhyphen"/>ſoever.</p>
+            <p>
+               <hi>Aph.</hi> 144. Which Medicine is com<g ref="char:EOLhyphen"/>monly called the <hi>Stone of Phyloſophers,</hi>
+becauſe it reſiſteth the Fire.</p>
+            <p>
+               <hi>Aph.</hi> 145. And for other reaſons it is alſo called by other various Names.</p>
+            <p>
+               <hi>Aph.</hi> 146. From the Premiſes, the <hi>Chymical Excellency is rightly defined, to
+conſiſt of Metallick Principles, exal<g ref="char:EOLhyphen"/>ted by various Phyloſophick Solutions and Coagulations,
+unto the higheſt degree of Perfection.</hi>
+            </p>
+            <p>
+               <hi>Aph.</hi> 147. For ſeeing that Nature alone in the Mineral Kingdom, pro<g ref="char:EOLhyphen"/>ceedeth no further
+than the perfecti<g ref="char:EOLhyphen"/>on of common Gold,</p>
+            <p>
+               <hi>Aph.</hi> 148. It is to be aſſiſted by Art, that it may render it more than
+perfect.</p>
+            <pb n="24" facs="tcp:53868:16" rendition="simple:additions"/>
+            <p>
+               <hi>Aph.</hi> 149. Therefore the <hi>Practice of Alchymy</hi> in general conſiſteth of two
+Operations; to wit, the prepa<g ref="char:EOLhyphen"/>ration of the <hi>Mercury</hi> of Phyloſo<g ref="char:EOLhyphen"/>phers; and the
+Compoſition of the <hi>Elixir</hi> or <hi>Medicine.</hi>
+            </p>
+            <p>
+               <hi>Aph.</hi> 150. Which although the are not very difficult,</p>
+            <p>
+               <hi>Aph.</hi> 151. Nevertheleſs, they ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not alwaies without their perils an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ill
+ſucceſs.</p>
+            <p>
+               <hi>Aph.</hi> 152. Not to be avoided, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by Induſtry, and an expert, couragiou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and prudent
+Artiſt.</p>
+            <p>
+               <hi>Aph.</hi> 153. Nor do the ſaid Ope<g ref="char:EOLhyphen"/>rations require any great Charge o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Coſt,</p>
+         </div>
+         <div type="part">
+            <div type="subpart">
+               <pb n="25" facs="tcp:53868:16"/>
+               <head>To the Lovers of Hermetick Studies.</head>
+               <p>ALL the Books of Phyloſophers, which treat of the abſtruſe <hi>Hermetick Medicine,</hi>
+are nothing but a Spagyrical Labyrinth, in which, for the moſt part, the Diſciples of Art fall
+into various Ambages and Deceits; ſo that even to this day, there are but very few who have found
+a true end. For if in this Laby<g ref="char:EOLhyphen"/>rinth ſome eaſie Way hath ſhewed it ſelf to the Erring and
+Straying, which ſeem<g ref="char:EOLhyphen"/>ed to extricate and lead them out, pre<g ref="char:EOLhyphen"/>ſently ſome impaſſable
+corners have occur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, which keep them in a perpetual Im<g ref="char:EOLhyphen"/>priſonment. So, if in the Writings of
+Phyloſophers, manifeſt and eaſie Ways ſometimes offer themſelves, which at the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irſt
+ſight ſeem to the Searchers to be plain according to the Letter, preſently unwary Operators,
+being deceived by the open <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ords of Phyloſophers, are involved in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nnumerable Deceits. To this
+may be
+<pb n="26" facs="tcp:53868:17"/>added, That many Pſeudochymiſts de<g ref="char:EOLhyphen"/>ceive many by their ſpecious Frauds
+an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cheats, diſperſing and ſelling up an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> down lying Operations and Proceſſes, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which
+they promiſe Golden Mountains <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Credulous; ſowing Tares and bidding them expect Wheat.
+Wherefore I being moved with Compaſſion, have here offer<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> theſe Rules, which are full of
+Phyſic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Reaſons and Truth; in which you ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the whole Art perſpicuouſly depicted, as
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Writing-Table. Examin and wei<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> them throughly, fence your Opinion w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> firm arguments, and
+then you cannot e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> For he that without judgment believe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> every Sophiſm, is willing to be
+deceived. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> The true Art is hidden under many Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rings, by which the unwary are eaſily
+c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>founded. Therefore, before you begin <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> work, weigh well, and prudently conſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the
+natural Cauſes of things; or elſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ter not upon the matter. It is better <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> imploy your
+time in diligent Meditat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and profound Judgment, than to under <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Puniſhment of a
+fooliſh and inconſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rate Temerity. — Farewell.</p>
+               <closer>
+                  <signed>B. D. P.</signed>
+               </closer>
+            </div>
+            <div type="subpart">
+               <pb n="27" facs="tcp:53868:17" rendition="simple:additions"/>
+               <head>Some Phyloſophick Rules or Canons, concerning the Stone of Phyloſophers.</head>
+               <head type="sub">What we ſeek, is either here, or no where.</head>
+               <p>
+                  <hi>Canon</hi> I.</p>
+               <p>THat which is neareſt to Perfection, is the more eaſily brought to Perfection.</p>
+               <p n="2">2. Things Imperfect cannot by any Art put on Perfection, except they be firſt purged
+from their fecu<g ref="char:EOLhyphen"/>lent Sulphur and earthy Groſſneſs, which is mixed with their Sulphur and
+Mercury; the which a perfect Medicine performeth.</p>
+               <p n="3">3. To render the Imperfect fixt, without the Spirit and Sulphur of the Perfect, is
+altogether impoſſible.</p>
+               <p n="4">4. The Heaven of Philoſophers re<g ref="char:EOLhyphen"/>ſolveth all the Metals into their firſt
+<pb n="29" facs="tcp:53868:18"/>matter; that is, into Mercury.</p>
+               <p n="5">5. He that endeavoureth to reduce Metals into Mercury, without the Philoſophick Heaven,
+or Metallick <hi>A<g ref="char:EOLhyphen"/>qua-vitae,</hi> or their Tartar, will be greatly miſtaken, becauſe the
+Impu<g ref="char:EOLhyphen"/>rity abounding in Mercury, from other Diſſolutions, is even diſcerna<g ref="char:EOLhyphen"/>ble by the Eye.</p>
+               <p n="6">6. Nothing is perfectly fixed, which cannot be inſeparably joyned with that which is
+fixed.</p>
+               <p n="7">7. Fuſible Gold may be change<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and turned into Blood.</p>
+               <p n="8">8. To render Silver fixt, it is nei<g ref="char:EOLhyphen"/>ther to be reſolved into Powder, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Water, for that
+is radically to deſtroy it; but it ought neceſſarily to be re<g ref="char:EOLhyphen"/>duced into Mercury.</p>
+               <p n="9">9. <hi>Luna</hi> cannot be tranſmuted in<g ref="char:EOLhyphen"/>to <hi>Sol,</hi> except it return into running
+Mercury (but by the phyſical Tin<g ref="char:EOLhyphen"/>cture) the ſame is to be judged o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the other Metals.</p>
+               <p n="10">10. The imperfect Bodies toge<g ref="char:EOLhyphen"/>ther with <hi>Luna</hi> are brought to per<g ref="char:EOLhyphen"/>fection,
+<pb n="29" facs="tcp:53868:18" rendition="simple:additions"/>and converted into pure Gold, if they be firſt reduced into Mercury;
+and that by a white or red Sulphur, by the vertue of an appro<g ref="char:EOLhyphen"/>priate Fire.</p>
+               <p n="11">11. Every imperfect Body is brought to perfection by its reduction into Mercury; and
+afterwards, by decocting with Sulphurs in an appro<g ref="char:EOLhyphen"/>priate Fire: For of thoſe are genera<g ref="char:EOLhyphen"/>ted Gold
+and Silver; and they are deceived, and labour in vain, who en<g ref="char:EOLhyphen"/>deavour to make Gold and Silver after
+another manner.</p>
+               <p n="12">12. The Sulphur of <hi>Mars</hi> is the beſt, which being joyned to the Sul<g ref="char:EOLhyphen"/>phur of
+Gold, bringeth forth a cer<g ref="char:EOLhyphen"/>tain Medicine.</p>
+               <p n="13">13. No Gold is generated, but what was firſt Silver.</p>
+               <p n="14">14. Nature compoundeth and coct<g ref="char:EOLhyphen"/>eth her Minerals by a gradual proceſs; and ſo from
+one Root only procrea<g ref="char:EOLhyphen"/>teth all the Metals, even to the Ulti<g ref="char:EOLhyphen"/>mate end of Metals, which is Gold.</p>
+               <pb n="30" facs="tcp:53868:19" rendition="simple:additions"/>
+               <p n="15">15. Mercury corrupteth Gold, re<g ref="char:EOLhyphen"/>ſolveth it into Mercury, and maketh it volatile.</p>
+               <p n="16">16. The Stone is compounded of Sulphur and Mercury.</p>
+               <p n="17">17. If the preparation of Mercu<g ref="char:EOLhyphen"/>ries be not taught by ſome skilful Ar<g ref="char:EOLhyphen"/>tiſt, it is not
+to be learned by the reading of Books.</p>
+               <p n="18">18. The preparation of Mercury for the <hi>Philoſophick Menſtruum,</hi> is cal<g ref="char:EOLhyphen"/>led
+Mortification.</p>
+               <p n="19">19. The Praxis of this great Work exceedeth the higheſt <hi>Arca<g ref="char:EOLhyphen"/>num</hi> of Nature;
+and except it be ſhewed by Divine Revelation, or the Work it ſelf, by an Artiſt, it is ne<g ref="char:EOLhyphen"/>ver
+obtained from Books.</p>
+               <p n="20">20. Sulphur &amp; Mercury are the mat<g ref="char:EOLhyphen"/>ter of the Stone: therefore the know<g ref="char:EOLhyphen"/>ledge of
+Mercuries is neceſſary, that a good Mercury may be taken, by which the Stone may be the
+ſooner perfec<g ref="char:EOLhyphen"/>ted.</p>
+               <p n="21">21. Indeed there is a certain mer<g ref="char:EOLhyphen"/>cury hidden in every Body, being fit<g ref="char:EOLhyphen"/>ted
+<pb n="31" facs="tcp:53868:19"/>without other preparation; but the Art of Extracting it is very diffi<g ref="char:EOLhyphen"/>cult.</p>
+               <p n="22">22. <hi>Mercury</hi> cannot be converted into <hi>Sol</hi> or <hi>Luna,</hi> and fixed,
+but by a Compendium of the Abreviation of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he great Work.</p>
+               <p n="23">23. To congeal, to fix, is one Work; of one thing only, in one Veſſel.</p>
+               <p n="24">24. That which congealeth and fixeth Mercury, that alſo tingeth the ſame, in one and
+the ſame praxis.</p>
+               <p n="25">25. The degrees of Fire to be ob<g ref="char:EOLhyphen"/>ſerved in the Work, are four: In the firſt, the
+Mercury diſſolveth its own Body; in the ſecond, the Sulphur dryeth up the Mercury; in the
+third and fourth, the Mercury is fixed.</p>
+               <p n="26">26. The matters being radically permixed in their profundity, through their moſt minute
+parts, are after<g ref="char:EOLhyphen"/>wards made inſeparable, as Snow mix'd with Water.</p>
+               <p n="27">27. Divers Simples being put into putrefaction, produce divers others.</p>
+               <pb n="32" facs="tcp:53868:20" rendition="simple:additions"/>
+               <p n="28">28. It is neceſſary, that the form and the matter be of the ſame Spe<g ref="char:EOLhyphen"/>cies.</p>
+               <p n="29">29. An homogeneous Sulphur is of the ſame Mercurial nature, which produceth Gold and
+Silver; and this pure Sulphur is gold and ſilver, al<g ref="char:EOLhyphen"/>though not diſcernable by the Eye in that
+form, but inaſmuch as it i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſſolved into Mercury.</p>
+               <p n="30">30. There may be a certain fixed Unctuoſity extracted from gold, with out a
+Phyloſophick Diſſolution of the Gold into Mercury, which ſerveth in<g ref="char:EOLhyphen"/>ſtead of a ferment
+generating <hi>Sol</hi> and <hi>Luna;</hi> and that is performed by way of abreviating the Work,
+which <hi>Ge<g ref="char:EOLhyphen"/>ber</hi> calleth <hi>Rebis.</hi>
+               </p>
+               <p n="31">31. The metals being reſolved in<g ref="char:EOLhyphen"/>to Mercury, are again reduced into a body, a ſmall
+quantity of the Ferment being admixed, otherwiſe they al<g ref="char:EOLhyphen"/>waies retain the form of Mercury.</p>
+               <p n="32">32. The Heaven or Tartar of Phi<g ref="char:EOLhyphen"/>loſophers, which reduceth all the me<g ref="char:EOLhyphen"/>tals into Mercury,
+is the metalline
+<pb n="33" facs="tcp:53868:20" rendition="simple:additions"/>
+                  <hi>Aqua-vitae</hi> of Phyloſophers, which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey alſo call their
+diſſolute Feces.</p>
+               <p n="33">33. Sulphur and Mercury conſiſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the ſame homogeneous nature.</p>
+               <p n="34">34. The Stone of Phyloſophers is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>othing but gold and ſilver, endow'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith an
+Excellency and more than <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erfect Tincture.</p>
+               <p n="35">35. <hi>Sol</hi> and <hi>Luna,</hi> in their own <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roper ſpecies, have no more than that
+is ſufficient for themſelves, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich it behoveth to reduce into the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ature and power of a
+Ferment, by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reparation, and to digeſt, whereby <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he maſs may be multiplied.</p>
+               <p n="36">36. The chief Extremities in Mer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ury are two, <hi>viz.</hi> too much Crudi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, and too
+exquiſite a Decoction.</p>
+               <p>The words in the Original are <hi>ni<g ref="char:EOLhyphen"/>mis exquiſita;</hi> but the word <hi>nimis,</hi> I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udge,
+ſhould have been <hi>minus;</hi> foraſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>huch as that agrees well with Crudi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, no Crude
+ſubjected being well de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>octed.]</p>
+               <pb n="34" facs="tcp:53868:21" rendition="simple:additions"/>
+               <p n="37">37. Phyloſophers obſerve this for a maxime; that every dry thing what<g ref="char:EOLhyphen"/>ſoever
+quickly drinketh up a moi<g ref="char:EOLhyphen"/>ſture of its own ſpecies.</p>
+               <p n="38">38. The Calx of <hi>Luna</hi> being alte<g ref="char:EOLhyphen"/>red, haſtily drinketh up its own Mer<g ref="char:EOLhyphen"/>cury; the
+Phyloſophers Foundation of Minerals.</p>
+               <p n="39">39. Sulphur is the <hi>Anima,</hi> but Mercury the matter.</p>
+               <p n="40">40. Mercury is ſtayed or detained by the Sulphur of imperfect Bodies and is coagulated
+into an imperfect Body, and paſſeth into the ſame me<g ref="char:EOLhyphen"/>tallick ſpecies of the imperfect Body
+by whoſe ſulphur it was congealed and concreted.</p>
+               <p n="41">41. To make <hi>Sol</hi> and <hi>Luna</hi> of the imperfect bodies, by ſulphur, is
+alto<g ref="char:EOLhyphen"/>gether impoſſible; for nothing ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> give or afford more than it hath.</p>
+               <p n="42">42. The Mercury of all the Metals is their Feminine ſeed, and their
+<hi>Men<g ref="char:EOLhyphen"/>ſtruum,</hi> being brought ſo far by the Art of a good Operator: For by the projection
+of the great Work, it
+<pb n="35" facs="tcp:53868:21" rendition="simple:additions"/>receiveth and paſſeth through the qualities of all the Metals, even
+unto Gold.</p>
+               <p n="43">43. That a red <hi>Tincture</hi> may be eli<g ref="char:EOLhyphen"/>cited, the Mercury is to be animated with the
+Ferment of <hi>Sol</hi> only; but for the white, with the Ferment of <hi>Luna</hi> only.</p>
+               <p n="44">44. The Work of Phyloſophers is perfected by a very eaſie Labour, and performed
+without great Coſts, and that at any time, and in any place whatſoever, and by all men,
+provided they have the true and ſufficient matter.</p>
+               <p n="45">45. The Sulphurs of <hi>Sol</hi> and <hi>Luna</hi> ſtay or retain the ſpirits of
+their own ſpecies.</p>
+               <p n="46">46. <hi>Sol</hi> and <hi>Luna</hi> are the true ſul<g ref="char:EOLhyphen"/>phurs, ſperms, or Maſculine
+ſeeds of the Stone.</p>
+               <p n="47">47. Every thing which hath a power of retaining and fixing, ought neceſſarily to be
+ſtable and perma<g ref="char:EOLhyphen"/>nent.</p>
+               <pb n="36" facs="tcp:53868:22" rendition="simple:additions"/>
+               <p n="48">48. The Tincture which giveth perfection to the imperfect Metals, floweth from the
+Fountain of <hi>Sol</hi> and <hi>Luna.</hi>
+               </p>
+               <p n="49">49. Whoſoever take the Sulphur of <hi>Venus,</hi> are deceived.</p>
+               <p n="50">50. There is nothing given to <hi>Venus</hi> by Nature, which is neceſſary to the
+great Spagyrick Work, or that can ſerve for the making of <hi>Sol</hi> and <hi>Luna.</hi>
+               </p>
+               <p n="51">51. Note, that Gold converted in<g ref="char:EOLhyphen"/>to Mercury, before its Conjunction with the
+<hi>Menſtruum,</hi> can be neither <hi>Anima,</hi> nor Ferment, nor Sulphur, nor doth it any way
+profit.</p>
+               <p n="52">52. The Work being brought to the end, may be rendred fiery, by Reiteration.</p>
+               <p n="53">53. In the Abreviation of the Work, the perfect bodies ought to be reduced into running
+Mercury, and a dry Water, whereby they may rightly receive a Ferment.</p>
+               <p n="54">54. The Preparation of Mercury, which is performed by ſublimation,
+<pb n="37" facs="tcp:53868:22" rendition="simple:additions"/>(being adhibited after revification) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s better than that which is done
+by Amalgamation.</p>
+               <p n="55">55. The <hi>Anima</hi> cannot impreſs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he form, except the ſpirit <hi>Intervene,</hi>
+which is nothing elſe but the <hi>Sol</hi> tur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed into <hi>Mercury.</hi>
+               </p>
+               <p n="56">56. Mercury receiveth the form <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Gold by the mediation of the Spi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it.</p>
+               <p n="57">57. <hi>Sol</hi> being reſolved into <hi>Mer<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ury,</hi> is the ſpirit and
+<hi>anima.</hi>
+               </p>
+               <p n="58">58. The Sulphur and Tincture of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hyloſophers deſign one and the ſame <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erment.</p>
+               <p n="59">59. The Mercury of the vulgar is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>endred equal to all the Mercuries of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odies, and cometh
+very near to their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>keneſs and nature.</p>
+               <p n="60">60. A Ferment rendreth Mercury <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore ponderous.</p>
+               <p n="61">61. If the common Mercury be not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nimated, or wanteth an <hi>anima,</hi> it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffords
+nothing of moment, either to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he univerſal or particular Work.</p>
+               <pb n="38" facs="tcp:53868:23" rendition="simple:additions"/>
+               <p n="62">62. Mercury being rightly morti<g ref="char:EOLhyphen"/>fied, is then impreſſed with an <hi>anima.</hi>
+               </p>
+               <p n="63">63. <hi>Sol</hi> may be prepared into a Ferment, ſo that one part may ani<g ref="char:EOLhyphen"/>mate ten
+parts of common Mercury; but this Work hath no end.</p>
+               <p n="64">64. The Mercury of the imperfect bodies ſtand in a <hi>medium</hi> between the common
+Mercury, and the Mercury of the perfect bodies; but the Art of extracting it, is very
+difficult.</p>
+               <p n="65">65. Seeing that the common Mer<g ref="char:EOLhyphen"/>cury, by projection of the Stone, is changed into
+<hi>Sol</hi> or <hi>Luna,</hi> therefore it may aſcend higher, be exalted, and rendred equal to
+all the Mercuries of bodies.</p>
+               <p n="66">66. Common Mercury animated, is a very great <hi>Arcanum.</hi>
+               </p>
+               <p n="67">67. The Mercuries of all Bodies are changed into Gold or Silver, by an Abreviation of the
+Work.</p>
+               <p n="68">68. A moiſt and gentle heat is cal<g ref="char:EOLhyphen"/>led by the Name of the <hi>Aegyptian</hi> Fire.</p>
+               <pb n="39" facs="tcp:53868:23" rendition="simple:additions"/>
+               <p n="69">69. It is worthy to be noted, that <hi>Luna</hi> is not the mother of common ſilver,
+but a certain Mercury, endowed with the quality of the Coeleſtial <hi>Luna.</hi>
+               </p>
+               <p n="70">70. Metallick Luna is of a maſcu<g ref="char:EOLhyphen"/>line nature.</p>
+               <p n="71">71. The Mercury of the vulgar, through coldneſs, putteth on the na<g ref="char:EOLhyphen"/>ture of a barren
+Woman.</p>
+               <p n="72">72. The Mercuries of Semi-mine<g ref="char:EOLhyphen"/>rals reſemble the nature of <hi>Luna</hi> in
+likeneſs.</p>
+               <p n="73">73. All things whatſoever are pro<g ref="char:EOLhyphen"/>duced of <hi>Sol</hi> and <hi>Luna;</hi> to wit, of
+two ſubſtances,</p>
+               <p n="74">74. Male and Female; that is, <hi>Sol</hi> and <hi>Mercury</hi> grow together into
+one</p>
+               <p n="75">75. Common Mercury without Preparation, is remote from the Work.</p>
+               <p n="76">76. Four of <hi>Mercury,</hi> and one of <hi>Sol;</hi> that is, of the ferment,
+Conſti<g ref="char:EOLhyphen"/>tute a true matrimony of male and female.</p>
+               <pb n="40" facs="tcp:53868:24"/>
+               <p n="77">77. The Solution is performed, when the Sol is reſolved into Mer<g ref="char:EOLhyphen"/>cury.</p>
+               <p n="78">78. Without Putrefaction no So<g ref="char:EOLhyphen"/>lution is perfected.</p>
+               <p n="79">79. Putrefaction endureth, and extendeth it ſelf even to whiteneſs.</p>
+               <p n="80">80. The great Secret is the mun<g ref="char:EOLhyphen"/>dification of the Spirit, whereby the
+<hi>Menſtruum</hi> is prepared, for by it the Gold is reſolved.</p>
+               <p n="81">81. Mercury reſolveth Gold into a Water of its own form; that is, into a running
+Mercury, as it ſelf is.</p>
+               <p n="82">82. Diſſolution is the beginning of Congelation.</p>
+               <p n="83">83. Sol being converted into a running Mercury, remaineth in the ſame form for a little
+time.</p>
+               <p n="84">84. The Ferment dryeth up the Mercury, and rendreth it more pon<g ref="char:EOLhyphen"/>derous, retaineth and
+fixeth it.</p>
+               <p n="85">85. The Sol of Phyloſophers is called their Fountain.</p>
+               <p n="86">86. The matter is converted by the power of Putrefaction, into a Pul<g ref="char:EOLhyphen"/>tis
+<pb n="41" facs="tcp:53868:24"/>or Lute, which is the beginning of Coagulation.</p>
+               <p n="87">87. There is a certain Compendi<g ref="char:EOLhyphen"/>ous way, by which the Sulphur is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aken from Sol and Luna,
+whereby <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>very Mercury may be fixed into gold and ſilver.</p>
+               <p n="88">88. The matter ought never to be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emoved from the fire, nor ſuffered <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o cool,
+otherwiſe the work will be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtroyed.</p>
+               <p n="89">89. When the matter attaineth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he colour of blackneſs, then it is ne<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſary to
+give the ſecond degree of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re.</p>
+               <p n="90">90. The lotion or waſhing of Phi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſophers, is a ſimilitude; for the fire <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lone
+performeth and perfecteth all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hings.</p>
+               <p n="91">91. The Venome and Fetor is ta<g ref="char:EOLhyphen"/>ken away, without the addition of any thing, by the force
+of the Fire, which alone performeth all things.</p>
+               <p n="92">92. The Fire, by its acute and pe<g ref="char:EOLhyphen"/>netrating Vertue, purgeth and clean<g ref="char:EOLhyphen"/>ſeth an hundred
+times more than any water whatſoever.</p>
+               <pb n="42" facs="tcp:53868:25"/>
+               <p n="93">93. In the generation and vegeta<g ref="char:EOLhyphen"/>tion of any thing whatſoever, the heat being extinct,
+death preſently invadeth the growing matter.</p>
+               <p n="94">94. The Spirit is heat.</p>
+               <p n="95">95. The matter being brought to whiteneſs, cannot be corrupted and deſtroyed.</p>
+               <p n="96">96. Every Corruption of matter is impreſſed with a deadly Venome.</p>
+               <p n="97">97. The Glaſs or Veſſel is called the Mother.</p>
+               <p n="98">98. The vertue of Sulphur is not extenſive beyond the term or limit of a certain
+proportion, neither can it exceed unto an infinite weight.</p>
+               <p n="99">99. This queſtion is to be obſer<g ref="char:EOLhyphen"/>ved, Wherefore the Phyloſophers call their
+<hi>Menſtruum</hi> the matter of the ſtone?</p>
+               <p n="100">100. <hi>Sulphur</hi> meriteth the name of the form, but the <hi>Menſtruum,</hi> of
+the matter.</p>
+               <p n="101">101. The <hi>Menſtruum</hi> repreſenteth the leſſer and lower Elements,
+<hi>viz.</hi> Of Earth and Water; but Sulphur
+<pb n="43" facs="tcp:53868:25" rendition="simple:additions"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e two ſuperiours, to wit, Fire and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ir, as a maſculine Agent.</p>
+               <p n="102">102. If you ſhould break and Egg<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ell, ſo that the Chicken ſhould come <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t, it
+could never be hatched, nor <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome to perfection: In like manner, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you open the Veſſel, and
+the mat<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r ſhall feel the Air, you can per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rm nothing.</p>
+               <p n="103">103. The Calcination which is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade with Mercury, in a Furnace of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>everberation, is
+better than others.</p>
+               <p n="104">104. The Phyloſophers manners <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpeaking are ſtudiouſly to be noted, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r by
+ſublimation they underſtand <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e diſſolutions of Bodies into Mer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ry by the firſt degree
+of Fire; the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cond Operation followeth, which is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Inſpiſſation of the Mercury with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he
+Sulphur; the third is the Fixa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on of the Mercury into a perfect <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd abſolute body.</p>
+               <p n="105">105. The number of thoſe which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rr, is infinite, who do not allow Mercury as it is in
+its own form, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>malgamated with the Calx of the
+<pb n="44" facs="tcp:53868:26"/>perfect bodies, to be the ſubject and matter of the ſtone.</p>
+               <p n="106">106. The white Medicine is brought to perfection in the third de<g ref="char:EOLhyphen"/>gree of Fire; and this
+degree is not to be exceeded in the preparation of the white Medicine; for if you do otherwiſe,
+you will deſtroy the wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the white.</p>
+               <p n="107">107. The fourth degree of Fire bringeth forth the matter Red, where appeareth alſo
+divers colours.</p>
+               <p n="108">108. The work after it hath at<g ref="char:EOLhyphen"/>tained the degree of whiteneſs, no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> being carried on to
+a perfect redneſs, remaineth imperfect, not only for the white, but alſo for the red Tin<g ref="char:EOLhyphen"/>cture;
+therefore it is left dead till i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> endeth in a perfect redneſs.</p>
+               <p n="109">109. After the fifth degree of Fire to perfect it, the matter acqui<g ref="char:EOLhyphen"/>reth new
+Virtues.</p>
+               <p n="110">110. The Work hath not attained perfection, except the Medicine ſhall be incerated,
+and rendred fuſible, like Wax.</p>
+               <pb n="45" facs="tcp:53868:26"/>
+               <p n="111">111. The Work of Inceration is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erfected by a double or triple quan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity of Mercury, to
+that which gave <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Stone its Original.</p>
+               <p n="112">112. The Inceration of the white Medicine is performed by the white <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ater, without the
+animation of the Mercury by Luna, but the Inceration <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the red Tincture is done with Mer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ury
+animated with Sol.</p>
+               <p n="113">113. It ſufficeth, that the matter <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fter Inceration remain like a Pultis <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r
+Paſte.</p>
+               <p n="114">114. Repeat the Inceration till it will bear a perfect Proof.</p>
+               <p n="115">115. If the Mercury with which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Medicine is incerated, being con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erted into Fume,
+ſhall fly away, it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vaileth nothing; wherefore do not manage it ill, for the matter by that means
+will go backward.</p>
+               <p n="116">116. The medicine being rightly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncerated, will explain to thee that Enigma, of the King
+returning from the Fountain.</p>
+               <p n="117">117. Sol being reduced into his
+<pb n="46" facs="tcp:53868:27"/>firſt Water or Mercury, if he ſhal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be refrigerated or cooled by the help
+of common Mercury, the work pe<g ref="char:EOLhyphen"/>riſheth.</p>
+               <p n="118">118. Phyloſophers take the mat<g ref="char:EOLhyphen"/>ter prepared and cocted by Nature and reduce it into
+its <hi>Prima ma<g ref="char:EOLhyphen"/>teria;</hi> foraſmuch as every thing re<g ref="char:EOLhyphen"/>turneth into that from which it hath its
+Original, even as ſnow is re<g ref="char:EOLhyphen"/>ſolved inſeparably in water.</p>
+               <p n="119">119. The wiſe men reduce year<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into months, months into weeks, and weeks into
+days.</p>
+               <p n="120">120. The firſt decoction of Mer<g ref="char:EOLhyphen"/>cury which Nature performeth, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the only Cauſe of
+its own ſingl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> perfection, beyond which it canno<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aſcend of it ſelf; for it behoveth to help
+its ſimplicity, by ſowing ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gold in its proper Earth, which i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nothing elſe but a pure
+Mercury which Nature hath a little, but no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> perfectly digeſted.</p>
+               <p n="121">121. But in the ſecond decoction of Mercury, beſides the firſt of Na<g ref="char:EOLhyphen"/>ture,
+<pb n="47" facs="tcp:53868:27" rendition="simple:additions"/>the vertue of the Mercury is multiplied ten-fold.</p>
+               <p n="122">122. And the Stone is made of Mercury by reiterating the Decocti<g ref="char:EOLhyphen"/>on, Sol being admixed,
+for by this means the male as well as the female are twice decocted.</p>
+               <p n="123">123. Sol ought to be put to Mercury, that he may be diſſolved into Sulphur, and then
+cocted into the ſtone of Phyloſophers.</p>
+               <p n="124">124. Every Phyloſopher in all times contemplated Mercury, when nevertheleſs he
+neither knew nor underſtood it.</p>
+               <p n="125">125. Every Mercury of whatſo<g ref="char:EOLhyphen"/>ever Original, being rightly taken in a due manner,
+exhibiteth the matter of the ſtone.</p>
+               <p n="126">126. Every thing from which Mercury may be elicited, is the ſubject of the
+Phyloſophick medi<g ref="char:EOLhyphen"/>cine.</p>
+               <p n="127">127. Whoſoever taketh or un<g ref="char:EOLhyphen"/>derſtandeth the writings of Phylo<g ref="char:EOLhyphen"/>ſophers, according
+to the Letter, is
+<pb n="48" facs="tcp:53868:28" rendition="simple:additions"/>grievouſly deceived, when they af<g ref="char:EOLhyphen"/>firm their Mercury to be one.</p>
+               <p n="128">128. One Mercury exceedeth ano<g ref="char:EOLhyphen"/>ther, in a greater heat, dryneſs, decoction, purity and
+perfection, which ought to be prepared with<g ref="char:EOLhyphen"/>out the corruption and loſs of its form, and to be
+purged from all its ſuperfluities, in which the treaſure and ſecret of the ſtone
+conſiſteth.</p>
+               <p n="129">129. If the preparation of common Mercury were known to the ſtudious of
+Phyloſophy,<note place="margin">Nota bene.</note> they would have no need to ſearch after any
+other Mercury of Phylo<g ref="char:EOLhyphen"/>ſophers, nor another metallick and mercurial <hi>Aqua-vitae,</hi> nor
+another Water of the ſtone; becauſe the preparation of vulgar Mercury con<g ref="char:EOLhyphen"/>taineth all thoſe
+things in it ſelf.</p>
+               <p n="130">130. Every Mercury of Metals and Minerals may by ſucceſſive de<g ref="char:EOLhyphen"/>grees be cocted and
+exalted unto the quality of the Mercuries of all the other bodies, even to a ſolar body, and
+thence be deduced to the
+<pb n="49" facs="tcp:53868:28" rendition="simple:additions"/>degree and vertue of what metal<g ref="char:EOLhyphen"/>lick body you pleaſe.</p>
+               <p n="131">131. Common Mercury before a Legitimate Preparation, is not the Mercury of
+Phyloſophers, but after preparation, it is called by the name of the <hi>Mercury of
+Phyloſophers;</hi> contain<g ref="char:EOLhyphen"/>ing in it ſelf the true way and method of extracting the Mercury
+from the other Metals: And it is the begin<g ref="char:EOLhyphen"/>ning of the greater Work.</p>
+               <p n="132">132. Common Mercury being pre<g ref="char:EOLhyphen"/>pared, is taken for a metallick <hi>Aqua<g ref="char:EOLhyphen"/>vitae.</hi>
+               </p>
+               <p n="133">133. The paſſive Mercury and <hi>Menſtruum</hi> ought by no means to loſe the
+External form of Mercury.</p>
+               <p n="134">134. Whoſoever uſeth ſublimate, or calcined, or precipitated Powder, inſtead of
+running Mercury, (for the Compleating the Work of Phyloſo<g ref="char:EOLhyphen"/>phers) erreth, and is wholly
+deceived.</p>
+               <p n="135">135. Whoſoever reſolveth Mer<g ref="char:EOLhyphen"/>cury into a clear water, for the per<g ref="char:EOLhyphen"/>fecting of the
+Phyloſophick Work, erreth grievouſly.</p>
+               <pb n="50" facs="tcp:53868:29" rendition="simple:additions"/>
+               <p n="136">136. To compoſe or make Mercu<g ref="char:EOLhyphen"/>ry of a Limpid water, is in the power of none but
+Nature.</p>
+               <p n="137">137. In the great Phyſical Work, it is neceſſarily required, that the crude
+Mercury ſhould reſolve the Gold into Mercury.</p>
+               <p n="138">138. If the Mercury be reduced in<g ref="char:EOLhyphen"/>to water, it diſſolveth the Gold into water: And
+in the work of the Stone it is highly neceſſary, that the Gold ſhould be diſſolved into
+Mercury.</p>
+               <p n="139">139. The Sperm and the <hi>Men<g ref="char:EOLhyphen"/>ſtruum</hi> ought to have the ſame ex<g ref="char:EOLhyphen"/>ternal
+form.</p>
+               <p n="140">140. It is the Doctrine of Phylo<g ref="char:EOLhyphen"/>ſophers, that it is neceſſary for us to irritate
+or ſtir up Nature; therefore if the <hi>Menſtruum</hi> be dry, it will be in vain to hope for a
+Solution.</p>
+               <p n="141">141. The ſeed of the Stone ought to be taken in a form like and near to the metals,
+and which cometh very near to metals.</p>
+               <p n="142">142. It is highly neceſſary to take a ſeed of the Phyloſophick Medi<g ref="char:EOLhyphen"/>cine,
+<pb n="51" facs="tcp:53868:29"/>which reſembleth common Mer<g ref="char:EOLhyphen"/>cury.</p>
+               <p n="143">143. It is the ſecret of all ſe<g ref="char:EOLhyphen"/>crets, to know the Mercury and matter to be the
+<hi>Menſtruum</hi> of the Stone, and the Mercury of the per<g ref="char:EOLhyphen"/>fect Bodies to be the form.</p>
+               <p n="144">144. Mercury by it ſelf only, af<g ref="char:EOLhyphen"/>fords nothing of moment to genera<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="145">145. Mercury is the Element of Earth, in which the Grain of Gold ought to be
+ſowed.</p>
+               <p n="146">146. The ſeed of Gold is not on<g ref="char:EOLhyphen"/>ly put into a multiplication of its quantity, but
+alſo of its vertue.</p>
+               <p n="147">147. A perfect Mercury requireth a female for the work of genera<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="148">148. Every Mercury ariſeth from and partaketh of two Elements; the crude of Water and
+Earth, that which is concocted of Fire and Air.</p>
+               <p n="149">149. If any man would prepare and exalt Mercury into a Metal, let him add a little
+Ferment to it, that
+<pb n="52" facs="tcp:53868:30"/>it may be exalted to ſuch a metal<g ref="char:EOLhyphen"/>lick degree as he would have it.</p>
+               <p n="150">150. The great <hi>Arcanum</hi> of the whole Work is the Phyſical Diſ<g ref="char:EOLhyphen"/>ſolution
+into Mercury, and reducti<g ref="char:EOLhyphen"/>on into the firſt matter.</p>
+               <p n="151">151. The Diſſolution of Sol ought to be perfected by Nature, not by the work of the
+Hands.</p>
+               <p n="152">152. When Sol is conjoyned or married to its Mercury, it will be in the form of Sol, but
+the greater Preparation will be in the Calx.</p>
+               <p n="153">153. It is a Queſtion among the Wiſe, Whether the Mercury of Luna, being conjoyned
+with the Mercury of Sol, may be taken in<g ref="char:EOLhyphen"/>ſtead of the Phyloſophick <hi>Men<g ref="char:EOLhyphen"/>ſtruum.</hi>
+               </p>
+               <p n="154">154. The Mercury of Luna is of a maſculine nature, but two males can no more generate
+than two fe<g ref="char:EOLhyphen"/>males.</p>
+               <p n="155">155. The Elixir conſiſteth in this, that it be elicited and choſen from a moſt
+pure Mercury.</p>
+               <pb n="53" facs="tcp:53868:30" rendition="simple:additions"/>
+               <p n="156">156. He that deſireth to operate, let him work in the Solution and Sub<g ref="char:EOLhyphen"/>limation of the
+two Luminaries.</p>
+               <p n="157">157. Gold giveth a golden co<g ref="char:EOLhyphen"/>lour; Silver a Silver colour; but he that knoweth how to
+tinge Mercu<g ref="char:EOLhyphen"/>ry with Sol or Luna, hath arrived to a great <hi>Arcanum.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="subpart">
+               <p>HEre thou haſt <hi>(friendly Reader)</hi> thoſe Phyloſophick Canons, with<g ref="char:EOLhyphen"/>out which,
+whoſoever thou art, thou wilt hardly attain thy wiſhed End: If thou receive theſe Hermetick
+Fundamentals with a grateful mind, and exerciſe thy Self in this Theory with a pious Medi<g ref="char:EOLhyphen"/>tation,
+time may hereafter bring forth the Praxis of thoſe Rules, not that im<g ref="char:EOLhyphen"/>perfect or maimed one,
+which I have ſhewed to ſome, but Intire and Compleat, confirmed by many Arguments, and ſolid
+Reaſons. In the mean time,</p>
+               <closer>
+                  <salute>Farewel.</salute>
+               </closer>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="54" facs="tcp:53868:31"/>
+            <head>POST-SCRIPT TO THE READER.</head>
+            <p>
+               <hi>WHereas I have Lately publiſhed Propoſals for the Printing of all the Works of that
+indefatigable and highly-experienced Chymiſt, <hi>Glauber,</hi> in one entire Folio. And, whereas
+there are divers of his Treatiſes in the</hi> Ger<g ref="char:EOLhyphen"/>man <hi>Tongue, which never were printed in
+Latin, which I had not by me at the time of publiſhing the ſaid Propoſals and Specimen; ſo
+that I could not inſert their Title Pages in the Specimen, as I did of the rest. Now, having
+obtained the ſaid</hi> German <hi>Treatiſes, and procured them to be tranſlated by a fit and
+able Hand, I have thought good (having this opportunity) to inſert them at the end of this little
+Book; Firſt, that all the Lo<g ref="char:EOLhyphen"/>vers
+<pb n="55" facs="tcp:53868:31"/>of Chymiſtry may know what to ex<g ref="char:EOLhyphen"/>pect more than the</hi> 44 <hi>Treatiſes,
+whoſe Titles are in the Specimen; and ſecond<g ref="char:EOLhyphen"/>ly, foraſmuch as</hi> Glauber <hi>wrote thoſe
+laſt in his later days, when he had arrived to a great Experience of Things, and was willing to
+be more Open and Plain than in his former Writings; thoſe Laſt Pieces of his ſeem to be of
+another ſtrain, and to teach many things very openly, which the Adepts have either wholly
+con<g ref="char:EOLhyphen"/>cealed, or at the leaſt have delivered ſo abſtruſely, that very few have been able to
+underſtand them; So that, if I mi<g ref="char:EOLhyphen"/>ſtake not, that Theory of the Hermetick Medicine, which is
+contained in the <hi>153</hi> Aphoriſms very regularly, though conciſe<g ref="char:EOLhyphen"/>ly, may, without much
+difficulty, be put into Practice by the aſſiſtance of ſome of the following Treatiſes.
+That</hi> Glauber <hi>before his death was Maſter of ſome Phyloſophick ſecrets, I verily
+believe by his manner of Writing; and himſelf pro<g ref="char:EOLhyphen"/>feſſeth in one of his laſt Writings,
+ſpeak<g ref="char:EOLhyphen"/>ing concerning</hi> the ſecret Fire of Arte<g ref="char:EOLhyphen"/>phius, <hi>That he could now, ſitting
+ſtill in
+<pb n="56" facs="tcp:53868:32"/>his Chamber, do more with an Egg-ſhell, than heretofore with all his Furnaces
+and Glaſſes. But, to detain the Reader no longer, the Treatiſes I ſpeak of are en<g ref="char:EOLhyphen"/>tituled
+as followeth.</hi>
+            </p>
+            <p n="1">I. <hi>The Third Century,</hi>
+            </p>
+            <p>Containing the Diſcovery of many Chymical Secrets.</p>
+            <p n="2">II. <hi>The Fourth Century,</hi>
+            </p>
+            <p>Shews 1. How to extract Gold out of Granats. 2. To make the Mer<g ref="char:EOLhyphen"/>cury of Wine. 3. To make the
+Mercury of Metals. What the <hi>Ani<g ref="char:EOLhyphen"/>ma</hi> of the greater and leſſer World is. That all
+ſuperfluous Egeſtions of Nature, afford a volatile Salt.</p>
+            <p>To ſeparate Gold from Silver on a Cupel.</p>
+            <p>A Tincture out of Metals.</p>
+            <p>The Tincture of Gold and Sul<g ref="char:EOLhyphen"/>phur.</p>
+            <p>To make Gold red.</p>
+            <p>A Cement to graduate ♀ into ☉.</p>
+            <p>To dulcifie all Corroſives.</p>
+            <pb n="57" facs="tcp:53868:32"/>
+            <p>
+               <hi>Sal Mirabile,</hi> or a ſweet gradua<g ref="char:EOLhyphen"/>ting Spirit, uſeful for the exalting of Metals.</p>
+            <p>The Phyloſophick Work.</p>
+            <p>Sulphur, the father of all Metals.</p>
+            <p>The Univerſal Coagulater is a Sulphur.</p>
+            <p>
+               <hi>Demagorgon</hi> is the Grandfather of all things.</p>
+            <p>The Vital Spirit and Radical moi<g ref="char:EOLhyphen"/>ſture is the Life and Growth of all men.</p>
+            <p n="3">III. <hi>The Fifth Century</hi>
+            </p>
+            <p>Sheweth the greateſt Particular, and the cheapeſt Univerſal.</p>
+            <p n="4">IV. <hi>Of</hi> Elias <hi>the Artiſt.</hi>
+            </p>
+            <p>Or who this <hi>Elias</hi> the Artiſt is, and what he is to reform or amend in the World when
+he comes, <hi>viz.</hi> The true Spagyrick Medicine of the ancient <hi>Aegyptian</hi>
+Phyloſophers, which hath been loſt for a Thouſand years, and which he will again re<g ref="char:EOLhyphen"/>ſtore,
+renew the ſame, and gloriouſly
+<pb n="58" facs="tcp:53868:33"/>illuſtrate it with many New Inven<g ref="char:EOLhyphen"/>tions, lay aſide much ſmoaky work<g ref="char:EOLhyphen"/>ing,
+and ſhew to the preſent erring World a nearer and better way, by which with more eaſe and
+leſs Char<g ref="char:EOLhyphen"/>ges than hitherto, good Medicines may be obtained.</p>
+            <p n="5">V. <hi>The Second Appendix <hi>to the Seventh part of the</hi>
+               </hi> Phar<g ref="char:EOLhyphen"/>macop.
+Spagyrica.</p>
+            <p>In which is handled the further Uſe of the <hi>Secret Sal-Armoniack,</hi> for the meliorating
+of the meaner Me<g ref="char:EOLhyphen"/>tals, and eſpecially of the profitable extracting or ſeparating of Gold out of
+Silver and Tin; with an Informa<g ref="char:EOLhyphen"/>tion ſubjoyned, how by the means of the mercurial Water of Tin,
+the Tinctures may be extracted in quan<g ref="char:EOLhyphen"/>tity not only from Gold, but alſo from <hi>Mars</hi> and
+<hi>Venus;</hi> and pre<g ref="char:EOLhyphen"/>cious as well as Common ſtones; and that, as it were, in a moment,
+without Fire or Charges.</p>
+            <pb n="59" facs="tcp:53868:33"/>
+            <p n="6">VI. <hi>The Third Appendix <hi>to the Seventh part of the</hi>
+               </hi> Phar<g ref="char:EOLhyphen"/>macop.
+Spagyrica.</p>
+            <p>In which is treated of the yet-fur<g ref="char:EOLhyphen"/>ther Uſe of our Wonder-working <hi>Alcaheſt,</hi> or
+moſt ſecret <hi>Sal-Armo<g ref="char:EOLhyphen"/>niack,</hi> and in particular, how the Tinctures may be extracted out
+of <hi>Sol, Mars,</hi> and <hi>Venus,</hi> and out of all Precious and Common Stones; and how the
+ſaid Colours may again be introduced into other white Metals and Stones, in order to colour the
+ſame permanently, and meliorate them.</p>
+            <p n="7">VII. <hi>Of the Animal Stone.</hi>
+            </p>
+            <p>Wherein is demonſtrated, That there is a Mineral Vertue hid in all things, and particularly in
+all Ani<g ref="char:EOLhyphen"/>mals whatſoever, but moſt of all in man; and that conſequently the ſtone of
+Phyloſophers may be pre<g ref="char:EOLhyphen"/>pared of them.</p>
+            <p>To which is added, the way of fixing Mercury by means of the na<g ref="char:EOLhyphen"/>tural
+<pb n="60" facs="tcp:53868:34"/>ſuperfluities and Excrements of Animals, in order to the obtaining a true
+Phyloſophical Tincture.</p>
+            <p n="8">VIII. <hi>Of the Three Secret Fire-Stones.</hi>
+            </p>
+            <p>Or, the three moſt Noble ſtones generated by three ſecret Fires. And,</p>
+            <p>Firſt, Of the Stone of Phyloſo<g ref="char:EOLhyphen"/>phers, which is prepared by the ſe<g ref="char:EOLhyphen"/>crot Fire of the
+Wiſe.</p>
+            <p>Secondly, The upper and lower Thunder-ſtone, how they are gene<g ref="char:EOLhyphen"/>rated above by the
+Meteorological Fire, and below by the ſecret Arti<g ref="char:EOLhyphen"/>ficial Fire. And,</p>
+            <p>Thirdly, How the <hi>Lapis Ignis,</hi> or <hi>Fire-ſtone</hi> of <hi>Baſil-Valentine,</hi>
+is to be prepared out of Antimony by Art. And how thoſe three moſt Noble Stones of the World
+are to be uſed in Medicine and Alchy my.</p>
+            <p n="9">IX. <hi>The Purgatory of Phy<g ref="char:EOLhyphen"/>loſophers.</hi>
+            </p>
+            <p>Or, A Treatiſe concerning the Purifying Fire of the wiſe men;
+<pb n="61" facs="tcp:53868:34"/>with which the Phyloſophers cleanſe their <hi>Mineral, Vegetable,</hi> and
+<hi>Animal</hi> ſubjects, and exalt them to the high<g ref="char:EOLhyphen"/>eſt degree of Purity, in order to pre<g ref="char:EOLhyphen"/>pare
+<hi>
+                  <g ref="char:V">Ʋ</g>niverſal Medicaments</hi> from them, for the Bodies of Men &amp; Metals.</p>
+            <p>Which <hi>Purgatory Fire</hi> is called by the ancient Phyloſophers <hi>Yſopaica,</hi> that
+is to ſay, the Art of waſhing by Fire.</p>
+            <p>Together with a ſubjoyned in<g ref="char:EOLhyphen"/>ſtruction, how by means of the Salt of the World, out of all
+Metals and Minerals, a living Mercury may be prepared in quantity.</p>
+            <p n="10">X. <hi>Of the Secret Fire of Phyloſophers.</hi>
+            </p>
+            <p>By which they not only brought to maturity their Univerſal Medi<g ref="char:EOLhyphen"/>cine, but alſo fixed
+particularly all the Inferiour Metals, into good Gold and Silver, with great profit.</p>
+            <p n="11">XI. <hi>A ſhort Expoſition upon the Helliſh Goddeſs</hi> Proſerpina, <hi>the
+Wife of</hi> Pluto, viz.</p>
+            <pb n="62" facs="tcp:53868:35"/>
+            <p>What the Heatheniſh Phyloſophick Poets, as <hi>Ovid</hi> and <hi>Virgil, &amp;c.</hi>
+un<g ref="char:EOLhyphen"/>derſtood thereby. And how by the help of this <hi>Proſerpina,</hi> the <hi>Ani<g ref="char:EOLhyphen"/>mae</hi> or
+ſouls of the mortified metal-lick Bodies are carried out of the Chymical Hell into the
+Phyloſophick Heaven.</p>
+            <p>
+               <hi>Theſe are the Treatiſes of which I could not give a particular Account in the</hi>
+Specimen, <hi>and which being added to thoſe there exhibited, make in all</hi> 55
+<hi>Treatiſes, which will amount to a large Volume in Folio, in which are alſo many Cutts;
+which is all ready for the Preſs, and wants nothing but a ſufficient number of</hi>
+Subſcribers <hi>to give it Breath in the Engliſh Air. I have ſpared neither Pains nor Coſt
+to ſerve my Country in this Work; and I hope there will not be wanting ſo many Ge<g ref="char:EOLhyphen"/>nerous Souls,
+who will concur with me (by ſubſcribing to it) to render it ef<g ref="char:EOLhyphen"/>fectual.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb n="63" facs="tcp:53868:35"/>
+            <head>The Terms of Subſcription are as followeth.</head>
+            <p>THat whoſoever ſhall pay to <hi>Chri<g ref="char:EOLhyphen"/>ſtopher Pack,</hi> at the ſign of the
+<hi>Globe</hi> in the Poſtern-ſtreet, near <hi>Moorgate;</hi> or to <hi>William Cooper,</hi> at
+the <hi>Pelican</hi> in <hi>Little-Britain,</hi> Bookſel<g ref="char:EOLhyphen"/>ler; or to <hi>Dorman Newman</hi> at the
+<hi>Kings-Arms</hi> in the <hi>Poultry,</hi> Bookſel<g ref="char:EOLhyphen"/>ler; the ſum of Twenty ſhillings, in
+manner following, ſhall have one Compleat Book in Quires, <hi>viz.</hi> Ten ſhillings in hand,
+and Ten ſhillings more upon the delivery of the ſaid Book, which is intended to be pub<g ref="char:EOLhyphen"/>liſhed
+in <hi>Trinity</hi>-Term next. And for the Encouragement of thoſe who ſhall ſubſcribe for
+ſix Books, they ſhall have one Book, when printed, preſented them <hi>Gratis.</hi>
+            </p>
+            <p>The <hi>Specimen</hi> may be had at any of the three places above-mentioned, as alſo of divers
+Bookſellers in and about <hi>London.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:53868:36"/>
+            <head>Advertiſement.</head>
+            <p>MYographia Nova ſive Muſ<g ref="char:EOLhyphen"/>culorum omnium (in Cor<g ref="char:EOLhyphen"/>pore Humano hactenus reperto<g ref="char:EOLhyphen"/>rum)
+accuratiſſima Deſcriptio, in ſex <hi>Proelectiones</hi> Diſtributa. No<g ref="char:EOLhyphen"/>mina ſingulorum
+in ſuo quaeque Loco, ſituque Naturali, in Aeneis Muſculorum Iconibus exarantur: Eorum item
+Origines, Inſertiones, &amp; uſus, Graphice deſcribuntur, additis inſuper ipſius
+<hi>Authoris,</hi> &amp; aliorum Nuperrimis Obſervatio<g ref="char:EOLhyphen"/>nibus &amp; Inventis.</p>
+            <p>
+               <hi>Opera &amp; ſtudio</hi> Joannis Browne, <hi>Sereniſſimi</hi> Caroli <hi>ſecundi,
+Bri<g ref="char:EOLhyphen"/>tanniarum Regis, nec-non Noſocomii Regalis, quod eſt ad D.</hi> Thomae, <hi>Chirurgi
+Ordinarii.</hi>
+            </p>
+            <pb facs="tcp:53868:36"/>
+         </div>
+      </back>
+   </text>
+</TEI>
